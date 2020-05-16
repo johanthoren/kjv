@@ -2,7 +2,8 @@
 
 Read the Word of God from your terminal
 
-Forked from [https://github.com/bontibon/kjv.git](https://github.com/bontibon/kjv.git) but with the Apocrypha added.
+Forked by LukeSmithxyz from [https://github.com/bontibon/kjv.git](https://github.com/bontibon/kjv.git) but with the Apocrypha added.
+Forked from LukeSmithxyz for the only purpose of spreading access in case of account deletions etc.
 
 
 ## Usage
@@ -38,7 +39,7 @@ Forked from [https://github.com/bontibon/kjv.git](https://github.com/bontibon/kj
 
 kjv can be built by cloning the repository and then running make:
 
-    git clone https://github.com/lukesmithxyz/kjv.git
+    git clone https://github.com/johanthoren/kjv.git
     cd kjv
     sudo make install
 
